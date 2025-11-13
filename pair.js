@@ -557,7 +557,7 @@ case 'setting': {
         'AUTO_VIEW_STATUS',
         'AUTO_LIKE_STATUS',
         'AUTO_RECORDING',
-        'AUTO_STATUS_SEEN_REPLAY,
+        'AUTO_STATUS_SEEN_REPLAY',
     ];
 
     // Emoji map for each setting
