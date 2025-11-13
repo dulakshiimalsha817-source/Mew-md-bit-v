@@ -566,8 +566,8 @@ case 'setting': {
         AUTO_VIEW_STATUS: '👀',
         AUTO_LIKE_STATUS: '❤️',
         AUTO_RECORDING: '🎙️',
-        AUTO_LIKE_EMOJI: '😻'.
-        AUTO_STATUS_SEEN_REPLAY: '🍂'
+        AUTO_LIKE_EMOJI: '😻',
+        AUTO_STATUS_SEEN_REPLAY: '🍂'.
         
     };
 
